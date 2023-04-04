@@ -27,3 +27,11 @@ p{
 .cardl{
     background-image: linear-gradient(to top, white , #0275d8 );
 }
+
+
+footer{
+    background-image: url(../img/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+}
